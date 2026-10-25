@@ -1,0 +1,6 @@
+# dsh-git-buttons bundle patch: insert the host half as one cordis row.
+- insert:
+    - id: git-buttons
+      name: '@dsh-external/dsh-git-buttons'
+      config:
+        timeoutMs: 20000
